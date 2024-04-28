@@ -1,0 +1,72 @@
+{
+  "BTC": [
+    [
+      "Bitcoin",
+      "bitcoin"
+    ],
+    true
+  ],
+  "ETH": [
+    [
+      "Ethereum",
+      "ethereum"
+    ],
+    false
+  ],
+  "LTC": [
+    [
+      "Litecoin",
+      "litecoin"
+    ],
+    true
+  ],
+  "TRX": [
+    [
+      "Tron TRX",
+      "tron"
+    ],
+    false
+  ],
+  "TON": [
+    [
+      "Toncoin",
+      "the-open-network"
+    ],
+    true
+  ],
+  "BNB": [
+    [
+      "Binance",
+      "binancecoin"
+    ],
+    true
+  ],
+  "SOL": [
+    [
+      "Solana",
+      "solana"
+    ],
+    true
+  ],
+  "XRP": [
+    [
+      "Ripple",
+      "ripple"
+    ],
+    false
+  ],
+  "DOGE": [
+    [
+      "Doge coin",
+      "dogecoin"
+    ],
+    false
+  ],
+  "AVAX": [
+    [
+      "Avalanch",
+      "avalanche-2"
+    ],
+    false
+  ]
+}

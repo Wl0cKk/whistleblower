@@ -1,0 +1,13 @@
+---
+host: smtp.example.com
+port: 587
+domain: example.com
+emailhost: sender_email@example.com
+dtime:
+- 0
+- 15
+- 6
+- 0
+times: 3
+movement: 2
+recipient: recipient_mail@example.com

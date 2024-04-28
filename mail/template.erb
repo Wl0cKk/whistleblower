@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhistleBlower</title>
+</head>
+
+<body style="background-color: #2581c7; color: #ffffff; text-align: center; font-family: 'Proxima Nova', sans-serif; font-size: 16px;">
+
+    <div style="background-color: #17a298; padding: 10px;">
+        <h1>WhistleBlower</h1>
+    </div>
+
+    <p>You selected the <%= option %> direction, and it worked <%= times %> times.</p>
+
+    <table style="width: 100%;">
+        <tr>
+            <th>Currency</th>
+            <th>Current</th>
+            <th>Initial</th>
+        </tr>
+        <% eof.each do |t|%>
+        <%= t %>
+        <% end %>
+    </table>
+    <br>
+    <p>According to <a href="https://www.coingecko.com/" style="color: #2fff00; text-decoration: underline;">CoinGecko API </a>.</p>
+</body>
+
+</html>
