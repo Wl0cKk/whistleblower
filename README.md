@@ -19,7 +19,7 @@ Require version of ruby <= 3.0.0
 Clone repo
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Wl0cKk/whistleblower.git
 ```
 
 Go to cloned directory
